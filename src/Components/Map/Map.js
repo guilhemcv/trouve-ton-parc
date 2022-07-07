@@ -116,7 +116,7 @@ export const Map = () => {
           <div
             style={{
               position: 'absolute',
-              top: '25%',
+              top: '10%',
               left: '25%',
               background: 'white',
               width: '50%',

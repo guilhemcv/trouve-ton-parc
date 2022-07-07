@@ -19,7 +19,7 @@ export const Home = () => {
                   </h1>
                   <p className="max-w-xl mx-auto mt-8 mb-8 text-base leading-relaxed text-white font-Prompt">
                     Bienvenue sur la plateforme collaborative qui recense les aires de jeux en France !
-                    Plus d'excuses, vous allez pouvoir occuper vos enfants et découvrir de nouvelles aires de jeux. Vous pourrez aussi partagez les aires proches de chez vous pour les faire découvrir aux autres utilisateurs ! 
+                    Plus d'excuses, vous allez pouvoir occuper vos enfants et découvrir de nouvelles aires de jeux. Vous pourrez aussi partager les aires proches de chez vous pour les faire découvrir aux autres utilisateurs ! 
                   </p>
                   <Link className='flex items-center justify-center w-48 h-10 mx-auto text-xl bg-white rounded-sm shadow-sm font-prompt text-nav'  to="/map">Let's go !</Link>
                 </div>

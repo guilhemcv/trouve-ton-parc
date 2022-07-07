@@ -113,19 +113,7 @@ export const Map = () => {
           </button>
         </div>
         {popup.show === true && (
-          <div
-          className='absolute w-11/12 p-5 bg-white overflow:scroll md:w-1/2 top-3 md:top-8 md:left-1/4 left-4'
-            /* style={{
-              position: 'absolute',
-              top: '10%',
-              left: '25%',
-              background: 'white',
-              width: '50%',
-              height: 'auto',
-              padding: '20px',
-              boxShadow: '0px 0px 10px rgba(0,0,0,0.5)',
-            }} */
-          >
+          <div className="absolute w-11/12 p-5 bg-white overflow:scroll md:w-1/2 top-3 md:top-8 md:left-1/4 left-4">
             <div className="mx-auto">
               <h3 className="mb-2 font-bold text-center underline md:mb-10 md:text-3xl">
                 {mapData[popup.id - 1].nom}
@@ -133,7 +121,9 @@ export const Map = () => {
               <h3 className="mb-2 text-center md:mb-10 md:text-xl">
                 {mapData[popup.id - 1].description}
               </h3>
-              <h3 className="mb-2 text-center underline md:mb-10 md:text-xl">Equipements :</h3>
+              <h3 className="mb-2 text-center underline md:mb-10 md:text-xl">
+                Equipements :
+              </h3>
               <ul className="text-center">
                 {mapData[popup.id - 1].equipements.map((equipement) => (
                   <li>{equipement}</li>

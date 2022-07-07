@@ -7,7 +7,7 @@ export const Home = () => {
   return (
     <div className='home'>
       <NavAccueil />
-      <div className="w-11/12 p-0 mx-auto mt-24 md:p-10 rounded-xl opacity-80 bg-nav md:w-7/12">
+      <div className="w-11/12 p-0 mx-auto mt-12 md:p-5 rounded-xl opacity-80 bg-nav md:w-7/12">
         <section className="w-full ">
           <div className="relative items-center w-full px-5 py-12 mx-auto md:px-2 lg:px-10 max-w-7xl lg:py-24">
             <div className="flex w-full mx-auto text-left">

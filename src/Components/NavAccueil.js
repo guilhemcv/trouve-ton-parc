@@ -12,7 +12,7 @@ import { Link } from 'react-router-dom';
       <div className="flex items-center justify-around md:mr-5 md:w-96">
         <Link className='flex items-center h-12 px-3 font-prompt hover:rounded-sm hover:text-nav hover:bg-white hover:shadow-sm' to="/">Accueil</Link>
         <Link className='flex items-center h-12 px-3 font-prompt hover:rounded-sm hover:text-nav hover:bg-white hover:shadow-sm' to="/map">Carte</Link>
-        <a className='flex items-center h-12 px-3 font-prompt hover:rounded-sm hover:text-nav hover:bg-white hover:shadow-sm' href="https://docs.google.com/forms/d/1XrOp13kVNfQkQJzAODOLKswgwseAWB_8RmTXHp5_xtk/prefill" target="_blank" rel="noreferrer">Ajouter un parc</a>
+        <a className='flex items-center h-12 px-3 font-prompt hover:rounded-sm hover:text-nav hover:bg-white hover:shadow-sm' href="https://forms.gle/hqmfezCBptBZjWKL6" target="_blank" rel="noreferrer">Ajouter un parc</a>
       </div>
     </div>
   );

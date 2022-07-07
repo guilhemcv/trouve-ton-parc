@@ -2,7 +2,6 @@ import './App.css';
 import { Routes, Route } from 'react-router-dom';
 import { Home } from './Home';
 import { Map } from './Components/Map/Map';
-import { Form } from './Form';
 
 function App() {
   return (

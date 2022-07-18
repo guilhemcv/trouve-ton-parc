@@ -23,5 +23,5 @@ https://trouve-ton-parc.vercel.app/
 
 ## Screenshots
 
-    ![App Screenshot](https://i.ibb.co/b6wf2XR/Capture-d-e-cran-2022-07-18-a-15-12-06.png)
+  
 

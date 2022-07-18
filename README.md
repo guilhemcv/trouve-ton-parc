@@ -23,5 +23,5 @@ https://trouve-ton-parc.vercel.app/
 
 ## Screenshots
 
-  
+![App Screenshot](https://github.com/guilhemcv/trouve-ton-parc/blob/main/parc.png)  
 
